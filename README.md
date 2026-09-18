@@ -1,5 +1,5 @@
 # Linux-FastApi<br>
-D13.2 on Linux: Excellent Performance<br>
+D13.2 on Linux: excellent performance<br>
 <br>
 Hi everyone, how are you doing?<br>
 I wanted to test the capabilities of the new next-generation Linux compiler, and I have to say I was impressed by its code optimization and parallel compilation speed.<br>
