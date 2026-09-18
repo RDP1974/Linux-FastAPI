@@ -9,8 +9,7 @@ Windows 64-bit → 2.7M ops/s<br>
 FPC 3.2.2, Linux 64-bit → 1.3M ops/s<br>
 D13.2, Linux 64-bit → 5M ops/s<br>
 <br>
-I also ran some server benchmarks in FastAPI mode using TMS Sparkle (https://www.tmssoftware.com/site/sparkle.asp) and Dext (https://github.com/dotpas/dext).<br>
-Both use the epoll() API and deliver similar results. The tests ran with 125 concurrent users on Linux kernel 7.0 using JsonDataObjects (https://github.com/ahausladen/jsondataObjects).<br>
+I also ran some server benchmarks in FastAPI mode using TMS Sparkle (https://www.tmssoftware.com/site/sparkle.asp) and Dext (https://github.com/dotpas/dext). Both use the epoll() API and deliver similar results. The tests ran with 125 concurrent users on Linux kernel 7.0 using JsonDataObjects (https://github.com/ahausladen/jsondataObjects).<br>
 <br>
 Database queries with connection pooling:<br>
 D13.2, PostgreSQL query against the cities database → 562 req/s, 205.87 MB/s<br>
