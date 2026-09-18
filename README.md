@@ -29,4 +29,4 @@ Congratulations to Embarcadero Labs on this exceptional achievement!<br>
 Roberto Della Pasqua<br>
 https://www.dellapasqua.com<br>
 <br>
-By the way, feel free to contact me for the test files or to learn more about the enhanced zero-copy overlapped interfaces or TLS dataset for building scalable server applications.
+By the way, feel free to contact me for the test files or to learn more about the enhanced zero-copy overlapped interfaces or TLS dataset to consolidate IT infrastructure costs.
