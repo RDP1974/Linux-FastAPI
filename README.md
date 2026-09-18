@@ -1,4 +1,4 @@
-# Linux-FastAPI
+# Linux-FastApi
 D13.2 on Linux: Excellent Performance
 
 Hi everyone, how are you doing?
