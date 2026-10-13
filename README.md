@@ -15,7 +15,7 @@ Database queries with connection pooling:<br>
 D13.2, PostgreSQL query against the cities database → 562 req/s, 205.87 MB/s<br>
 D13.2, PostgreSQL query against the cities database using my TLS model → 752.55 req/s, 272.14 MB/s<br>
 D13.2, PostgreSQL using my TLS model and rpmalloc → 889.75 req/s, 322.27 MB/s<br>
-Same test with Python FastAPI → 3.92 req/s and many timeouts<br>
+Same test with Python FastAPI → 39.2 req/s and many timeouts<br>
 Same test with Node.js → 125.73 req/s and some timeouts<br>
 <br>
 Hello World GET request with a simple JSON response:<br>
